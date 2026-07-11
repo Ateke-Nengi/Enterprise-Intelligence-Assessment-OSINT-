@@ -15,53 +15,20 @@ Classification: Confidential — For Academic and Internal Review Use Only
 
 Date: 10 July 2026
 
-# **Table of Contents**
+## Table of Contents
 
-[**Table of Contents** [2](#table-of-contents)](#table-of-contents)
-
-[**1. Introduction** [3](#section)](#section)
-
-[**2. Overview** [3](#overview)](#overview)
-
-[**3. Objectives** [3](#objectives)](#objectives)
-
-[**4. Scope** [4](#scope)](#scope)
-
-[**5. Tools Used** [4](#tools-used)](#tools-used)
-
-[**6. Methodology** [4](#methodology)](#methodology)
-
-[**7. Findings** [6](#findings)](#findings)
-
-[**8. Intelligence Correlation**
-[11](#intelligence-correlation)](#intelligence-correlation)
-
-[**9. Intelligence Assessment**
-[11](#intelligence-assessment)](#intelligence-assessment)
-
-[**10. Risk Analysis** [12](#risk-analysis)](#risk-analysis)
-
-[**11. Recommendations** [12](#recommendations)](#recommendations)
-
-[**12. Reference** [13](#reference)](#reference)
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
+1. [Introduction](#1-introduction)
+2. [Overview](#2-overview)
+3. [Objectives](#3-objectives)
+4. [Scope](#4-scope)
+5. [Tools Used](#5-tools-used)
+6. [Methodology](#6-methodology)
+7. [Findings](#7-findings)
+8. [Intelligence Correlation](#8-intelligence-correlation)
+9. [Intelligence Assessment](#9-intelligence-assessment)
+10. [Risk Analysis](#10-risk-analysis)
+11. [Recommendations](#11-recommendations)
+12. [Reference](#12-reference)
 
 # **1. Introduction**
 
