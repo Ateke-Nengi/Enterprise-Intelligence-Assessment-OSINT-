@@ -1,7 +1,5 @@
-<p align="center">
 <img src="media/image1.png"
 style="width:1.35417in;height:1.375in" />
-</p>
 
 **ENTERPRISE INTELLIGENCE ASSESSMENT**
 
