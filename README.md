@@ -132,7 +132,7 @@ this assessment covered:
   social-platform review (LinkedIn, Instagram).
 
 - One instance of light active reconnaissance: an Nmap host-discovery
-  and port scan of NIITPH's resolved IP address, 176.123.0.55.
+  and port scan of NIITPH's resolved IP address, 185.53.179.146.
 
 - Entity and relationship mapping of the niitph.com domain using
   Maltego.
