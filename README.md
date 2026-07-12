@@ -174,6 +174,8 @@ ensure a structured and repeatable intelligence process:
 
 - Dissemination
 
+**Phase Status:** Planning ✅ · Collection ✅ · Processing ✅ · Analysis ✅ · Dissemination ✅
+
 # **7. Findings**
 
 The findings below consolidate all evidence and observations recorded in
