@@ -71,6 +71,32 @@ Collectively, these findings describe an organization with a meaningful
 public "footprint" that could be leveraged by a threat actor during the
 reconnaissance phase of an attack.
 
+**Assessment Workflow**
+ 
+```
+PASSIVE OSINT
+Dorking / WHOIS / Wayback Machine / Social Platforms
+        |
+        v
+ACTIVE RECONNAISSANCE
+OSINT Framework Lookup / Nmap Host & Port Scan
+        |
+        v
+RELATIONSHIP MAPPING
+Maltego Transforms
+        |
+        v
+INTELLIGENCE CORRELATION
+Cross-Source Confidence Assessment
+        |
+        v
+RISK ANALYSIS
+MITRE ATT&CK® (TA0043) Technique Mapping
+        |
+        v
+RECOMMENDATIONS
+```
+
 # **3. Objectives**
 
 - To identify publicly available information
