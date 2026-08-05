@@ -15,6 +15,8 @@ Classification: Confidential — For Academic and Internal Review Use Only
 
 Date: 10 July 2026
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-blue) ![Investigation](https://img.shields.io/badge/Investigation-OSINT-red) ![Target](https://img.shields.io/badge/Target-Web%20Presence-orange) ![License](https://img.shields.io/badge/License-Educational-lightgrey)
+
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
